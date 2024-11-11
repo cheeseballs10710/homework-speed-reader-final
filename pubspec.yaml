@@ -1,0 +1,14 @@
+name: homework_speed_reader
+description: A Flutter app for summarizing homework text
+
+# Version number for the project
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  file_picker: ^5.2.3
+  path_provider: ^2.0.14
